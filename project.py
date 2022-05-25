@@ -10,6 +10,10 @@ import time
 os.system("clear")
 
 def main():
+    print("DumpSourceC0de_V1")
+    print("Programming by Sh4d0wE4")
+    input()
+    
     url = input("Lutfen verisini cekmek istediginiz sitenin\nURL'sini girin: ")
     request(url)
     print("Program basariyla calisti..")
